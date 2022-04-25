@@ -6,10 +6,10 @@ Sometimes a target-enrichment protocol will involve baits tiled across a conserv
 
 <div align="center">
 
-llllllllllllllllccccccccccccccccrrrrrrrrrrrrrrrr
-llllllllllllllllccccccccccccccccrrrrrrrrrrrrrrrr
-llllllllllllllllccccccccccccccccrrrrrrrrrrrrrrrr
-llllllllllllllllccccccccccccccccrrrrrrrrrrrrrrrr
+llllllllllllllllccccccccccccccccrrrrrrrrrrrrrrrr\n
+llllllllllllllllccccccccccccccccrrrrrrrrrrrrrrrr\n
+llllllllllllllllccccccccccccccccrrrrrrrrrrrrrrrr\n
+llllllllllllllllccccccccccccccccrrrrrrrrrrrrrrrr\n
 
 </div>
 
