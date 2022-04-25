@@ -5,10 +5,12 @@
 Sometimes a target-enrichment protocol will involve baits tiled across a conserved region so that the sequence reads can extend into some variable regions. This often involves one or more exons but not always (some UCEs or CNEEs). For the cases where the data can be neatly described: a conserved core (c), variable left flank (l), and variable right flank (r), I wanted to separate these regions as well as possible. This is in part to maybe help alignment, but there might be analyses where we do not want the cores or *vice versa*.
 
 <div align="center">
+
 llllllllllllllllccccccccccccccccrrrrrrrrrrrrrrrr
 llllllllllllllllccccccccccccccccrrrrrrrrrrrrrrrr
 llllllllllllllllccccccccccccccccrrrrrrrrrrrrrrrr
 llllllllllllllllccccccccccccccccrrrrrrrrrrrrrrrr
+
 </div>
 
 Starting with fasta files, the below script will split the l, c, and r regions into separate fasta files. This is accomplished by running the `splitLoci.pl` script twice.
